@@ -16,13 +16,14 @@ Nested items are completed pre-requisites (except where noted).
 - Understanding Machine Learning
 - Understanding Data Science
 - Introduction to SQL
+- Intermediate Python
+  - Introduction to Python
 - Introduction to Docker
   - Introduction to Shell
 - Introduction to Natural Language Processing in Python
   - Python Data Science Toolbox (Part 2) *** not completed ***
     - Python Data Science Toolbox (Part 1) *** not completed ***
       - Intermediate Python
-        - Introduction to Python
 - Introduction to Bash Scripting
   - Introduction to Shell
 - Image Processing in Python
