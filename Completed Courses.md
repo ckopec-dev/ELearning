@@ -3,6 +3,7 @@
 
 Nested items are completed pre-requisites (except where noted).
 
+- Understanding Artificial Intelligence
 - Machine Learning for Business
 - Introduction to Regression with statsmodels in Python
   - Introduction to Data Visualization with Seaborn
