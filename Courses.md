@@ -31,6 +31,7 @@
 
 ## In progress courses
 - Intermediate SQL
+- Joining Data with pandas
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Supervised Learning with scikit-learn
