@@ -22,6 +22,7 @@
 - Introduction to Statistics in Python
 - Introduction to TensorFlow in Python
 - Introduction to Version Control with Git
+- Joining Data with pandas
 - Machine Learning for Business
 - Understanding Artificial Intelligence
 - Understanding Cloud Computing
@@ -31,7 +32,6 @@
 - Understanding Machine Learning
 
 ## In progress courses
-- Joining Data with pandas
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Supervised Learning with scikit-learn
