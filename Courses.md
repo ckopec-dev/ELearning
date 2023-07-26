@@ -6,6 +6,7 @@
 - Data Science for Business
 - Image Processing in Python
 - Intermediate Python
+- Intermediate SQL
 - Introduction to Bash Scripting
 - Introduction to ChatGPT
 - Introduction to Data Science in Python
@@ -30,7 +31,6 @@
 - Understanding Machine Learning
 
 ## In progress courses
-- Intermediate SQL
 - Joining Data with pandas
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
