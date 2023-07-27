@@ -35,3 +35,4 @@
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Supervised Learning with scikit-learn
+- Working with the OpenAI API
