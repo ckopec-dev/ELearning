@@ -7,4 +7,4 @@
 
 ## In progress projects
 
-- Planning a Trip to Paris with the OpenAI API
+
