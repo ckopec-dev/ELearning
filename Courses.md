@@ -24,6 +24,7 @@
 - Introduction to Version Control with Git
 - Joining Data with pandas
 - Machine Learning for Business
+- Python Data Science Toolbox (Part 1)
 - Understanding Artificial Intelligence
 - Understanding Cloud Computing
 - Understanding Data Engineering
