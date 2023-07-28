@@ -5,6 +5,5 @@
 - Modeling Car Insurance Claim Outcomes
 - The GitHub History of the Scala Language
 
-## In progress projects
 
 
