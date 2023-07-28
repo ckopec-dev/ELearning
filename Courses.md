@@ -31,8 +31,3 @@
 - Understanding Data Visualization
 - Understanding Machine Learning
 
-## In progress courses
-- Python Data Science Toolbox (Part 1)
-- Python Data Science Toolbox (Part 2)
-- Supervised Learning with scikit-learn
-
