@@ -25,10 +25,10 @@
 - Joining Data with pandas
 - Machine Learning for Business
 - Python Data Science Toolbox (Part 1)
+- Python Data Science Toolbox (Part 2)
 - Understanding Artificial Intelligence
 - Understanding Cloud Computing
 - Understanding Data Engineering
 - Understanding Data Science
 - Understanding Data Visualization
 - Understanding Machine Learning
-
