@@ -26,6 +26,7 @@
 - Machine Learning for Business
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
+- Supervised Learning with scikit-learn
 - Understanding Artificial Intelligence
 - Understanding Cloud Computing
 - Understanding Data Engineering
