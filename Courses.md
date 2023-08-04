@@ -11,6 +11,7 @@
 - Intermediate SQL
 - Introduction to Bash Scripting
 - Introduction to ChatGPT
+- Introduction to Data Ethics
 - Introduction to Data Science in Python
 - Introduction to Data Visualization with Seaborn
 - Introduction to Deep Learning in Python
