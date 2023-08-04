@@ -5,6 +5,7 @@
 - Data Manipulation with Pandas
 - Data Processing in Shell
 - Data Science for Business
+- Data Storytelling Case Study: College Majors
 - Image Processing in Python
 - Intermediate Python
 - Intermediate SQL
