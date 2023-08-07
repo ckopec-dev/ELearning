@@ -7,6 +7,7 @@
 - Data Science for Business
 - Data Literacy Case Study: Remote Working Analysis
 - Data Storytelling Case Study: College Majors
+- Data Storytelling Case Study: Green Businesses
 - Image Processing in Python
 - Intermediate Python
 - Intermediate SQL
