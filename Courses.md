@@ -41,3 +41,4 @@
 - Understanding Data Science
 - Understanding Data Visualization
 - Understanding Machine Learning
+- Unsupervised Learning in Python
