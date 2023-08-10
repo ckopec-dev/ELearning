@@ -30,6 +30,7 @@
 - Introduction to TensorFlow in Python
 - Introduction to Version Control with Git
 - Joining Data with pandas
+- Large Language Models (LLMs) Concepts
 - Machine Learning for Business
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
