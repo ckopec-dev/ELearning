@@ -1,9 +1,7 @@
 
 # Completed Projects
 
+- Interpreting Unsupervised Learning Models
 - Introduction to DataCamp Projects
 - Modeling Car Insurance Claim Outcomes
 - The GitHub History of the Scala Language
-
-
-
