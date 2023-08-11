@@ -9,6 +9,7 @@
 - Data Storytelling Case Study: College Majors
 - Data Storytelling Case Study: Green Businesses
 - Image Processing in Python
+- Implementing AI Solutions in Business
 - Intermediate Python
 - Intermediate SQL
 - Introduction to Bash Scripting
