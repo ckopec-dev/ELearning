@@ -8,6 +8,7 @@
 - Data Literacy Case Study: Remote Working Analysis
 - Data Storytelling Case Study: College Majors
 - Data Storytelling Case Study: Green Businesses
+- Generative AI Concepts
 - Image Processing in Python
 - Implementing AI Solutions in Business
 - Intermediate Python
