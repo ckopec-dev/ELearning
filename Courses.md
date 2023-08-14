@@ -2,6 +2,7 @@
 # Completed Courses
 
 - AI Ethics
+- Communicating Data Insights
 - Data Manipulation with Pandas
 - Data Processing in Shell
 - Data Science for Business
