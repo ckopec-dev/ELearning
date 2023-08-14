@@ -16,6 +16,7 @@
 - Intermediate SQL
 - Introduction to Bash Scripting
 - Introduction to ChatGPT
+- Introduction to Data
 - Introduction to Data Culture
 - Introduction to Data Ethics
 - Introduction to Data Literacy
