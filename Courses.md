@@ -10,6 +10,7 @@
 - Data Storytelling Case Study: College Majors
 - Data Storytelling Case Study: Green Businesses
 - Data Storytelling Concepts
+- Data-Driven Decision Making for Business
 - Generative AI Concepts
 - Image Processing in Python
 - Implementing AI Solutions in Business
