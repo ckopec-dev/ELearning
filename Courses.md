@@ -38,6 +38,7 @@
 - Joining Data with pandas
 - Large Language Models (LLMs) Concepts
 - Machine Learning for Business
+- MLOps Concepts
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Supervised Learning with scikit-learn
