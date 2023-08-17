@@ -2,6 +2,7 @@
 # Completed Courses
 
 - AI Ethics
+- AWS Cloud Concepts
 - Communicating Data Insights
 - Data Manipulation with Pandas
 - Data Processing in Shell
