@@ -23,6 +23,7 @@
 - Introduction to Data Culture
 - Introduction to Data Ethics
 - Introduction to Data Literacy
+- Introduction to Data Quality
 - Introduction to Data Science in Python
 - Introduction to Data Visualization with Seaborn
 - Introduction to Deep Learning in Python
