@@ -5,10 +5,11 @@
 - AWS Cloud Concepts
 - Communicating Data Insights
 - Data Communication Concepts
+- Data Governance Concepts
+- Data Literacy Case Study: Remote Working Analysis
 - Data Manipulation with Pandas
 - Data Processing in Shell
 - Data Science for Business
-- Data Literacy Case Study: Remote Working Analysis
 - Data Storytelling Case Study: College Majors
 - Data Storytelling Case Study: Green Businesses
 - Data Storytelling Concepts
