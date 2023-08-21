@@ -4,6 +4,7 @@
 - AI Ethics
 - AWS Cloud Concepts
 - Communicating Data Insights
+- Course Creation at DataCamp
 - Data Communication Concepts
 - Data Governance Concepts
 - Data Literacy Case Study: Remote Working Analysis
