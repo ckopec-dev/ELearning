@@ -15,6 +15,7 @@
 - Data Storytelling Case Study: Green Businesses
 - Data Storytelling Concepts
 - Data-Driven Decision Making for Business
+- Forming Analytic Questions
 - Generative AI Concepts
 - Image Processing in Python
 - Implementing AI Solutions in Business
