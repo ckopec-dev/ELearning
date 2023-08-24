@@ -37,6 +37,7 @@
 - Introduction to Git
 - Introduction to Natural Language Processing in Python
 - Introduction to Python
+- Introduction to R
 - Introduction to Regression with statsmodels in Python
 - Introduction to Shell
 - Introduction to SQL
