@@ -58,5 +58,6 @@
 - Understanding Data Engineering
 - Understanding Data Science
 - Understanding Data Visualization
+- Understanding GDPR
 - Understanding Machine Learning
 - Unsupervised Learning in Python
