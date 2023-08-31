@@ -44,6 +44,7 @@
 - Introduction to SQL
 - Introduction to Statistics in Python
 - Introduction to TensorFlow in Python
+- Introduction to the Tidyverse
 - Introduction to Version Control with Git
 - Joining Data with pandas
 - Large Language Models (LLMs) Concepts
