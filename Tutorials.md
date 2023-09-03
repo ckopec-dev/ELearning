@@ -1,6 +1,7 @@
 
 # Completed Tutorials
 
+- Decision Tree Classification in Python Tutorial
 - Generating WordClouds in Python Tutorial
 - GIT Push and Pull Tutorial
 - GIT SETUP: The Definitive Guide
