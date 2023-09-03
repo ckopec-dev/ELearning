@@ -9,3 +9,4 @@
 - GitHub and Git Tutorial for Beginners
 - How to Resolve Merge Conflicts in Git Tutorial
 - Setup a Data Science Environment on your Computer
+- Stock Market Predictions with LSTM in Python
