@@ -9,6 +9,7 @@
 - Data Communication Concepts
 - Data Governance Concepts
 - Data Literacy Case Study: Remote Working Analysis
+- Data Manipulation with dplyr
 - Data Manipulation with Pandas
 - Data Processing in Shell
 - Data Science for Business
