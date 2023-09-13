@@ -49,6 +49,7 @@
 - Joining Data with pandas
 - Large Language Models (LLMs) Concepts
 - Machine Learning for Business
+- Manipulating Time Series Data in Python
 - Marketing Analytics for Business
 - MLOps Concepts
 - NoSQL Concepts
