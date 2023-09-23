@@ -9,6 +9,7 @@
 - Git Reset and Revert Tutorial for Beginners
 - GitHub and Git Tutorial for Beginners
 - How to Resolve Merge Conflicts in Git Tutorial
+- Installing Anaconda on Windows Tutorial
 - Linear Regression in R Tutorial
 - Principal Component Analysis in R Tutorial
 - Python Data Type Conversion Tutorial
