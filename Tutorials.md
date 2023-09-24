@@ -13,5 +13,6 @@
 - Linear Regression in R Tutorial
 - Principal Component Analysis in R Tutorial
 - Python Data Type Conversion Tutorial
+- Python Dictionary Comprehension Tutorial
 - Setup a Data Science Environment on your Computer
 - Stock Market Predictions with LSTM in Python
