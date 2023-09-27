@@ -23,6 +23,7 @@
 - Image Processing in Python
 - Implementing AI Solutions in Business
 - Intermediate Python
+- Intermediate R
 - Intermediate SQL
 - Introduction to Bash Scripting
 - Introduction to ChatGPT
