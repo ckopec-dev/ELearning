@@ -66,3 +66,4 @@
 - Understanding GDPR
 - Understanding Machine Learning
 - Unsupervised Learning in Python
+- Writing Functions in Python
