@@ -55,6 +55,7 @@
 - Marketing Analytics for Business
 - MLOps Concepts
 - NoSQL Concepts
+- Object-Oriented Programming in Python
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Supervised Learning with scikit-learn
