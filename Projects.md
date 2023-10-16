@@ -1,6 +1,7 @@
 
 # Completed Projects
 
+- Exploring the Kaggle Data Science Survey
 - Interpreting Unsupervised Learning Models
 - Introduction to DataCamp Projects
 - Modeling Car Insurance Claim Outcomes
