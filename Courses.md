@@ -35,6 +35,7 @@
 - Introduction to Data Quality
 - Introduction to Data Science in Python
 - Introduction to Data Visualization with ggplot2
+- Introduction to Data Visualization with Matplotlib
 - Introduction to Data Visualization with Seaborn
 - Introduction to Deep Learning in Python
 - Introduction to Docker
