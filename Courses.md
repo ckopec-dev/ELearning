@@ -19,6 +19,7 @@
 - Data-Driven Decision Making for Business
 - Forming Analytic Questions
 - Generative AI Concepts
+- Generative AI for Business
 - GitHub Concepts
 - Image Processing in Python
 - Implementing AI Solutions in Business
