@@ -42,6 +42,7 @@
 - Introduction to Docker
 - Introduction to Git
 - Introduction to Natural Language Processing in Python
+- Introduction to NumPy
 - Introduction to Python
 - Introduction to R
 - Introduction to Regression with statsmodels in Python
