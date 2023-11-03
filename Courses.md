@@ -57,6 +57,7 @@
 - Joining Data with dplyr
 - Joining Data with pandas
 - Large Language Models (LLMs) Concepts
+- Large Language Models for Business
 - Machine Learning for Business
 - Manipulating Time Series Data in Python
 - Marketing Analytics for Business
