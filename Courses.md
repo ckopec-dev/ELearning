@@ -75,5 +75,6 @@
 - Understanding Data Visualization
 - Understanding GDPR
 - Understanding Machine Learning
+- Understanding Modern Data Architecture
 - Unsupervised Learning in Python
 - Writing Functions in Python
