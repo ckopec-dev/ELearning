@@ -1,6 +1,7 @@
 
 # Completed Projects
 
+- A Network Analysis of Game of Thrones
 - Exploring the Kaggle Data Science Survey
 - Interpreting Unsupervised Learning Models
 - Introduction to DataCamp Projects
