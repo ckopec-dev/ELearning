@@ -67,6 +67,7 @@
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Reshaping Data with pandas
+- Streaming Concepts
 - Supervised Learning with scikit-learn
 - Understanding Artificial Intelligence
 - Understanding Cloud Computing
