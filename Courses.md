@@ -3,6 +3,7 @@
 
 - AI Ethics
 - AWS Cloud Concepts
+- Cluster Analysis in Python
 - Communicating Data Insights
 - Course Creation at DataCamp
 - Dashboard Design Concepts
