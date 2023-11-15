@@ -44,6 +44,7 @@
 - Introduction to Git
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
+- Introduction to Programming Paradigms
 - Introduction to Python
 - Introduction to R
 - Introduction to Regression with statsmodels in Python
