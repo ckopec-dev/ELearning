@@ -62,6 +62,7 @@
 - Large Language Models (LLMs) Concepts
 - Large Language Models for Business
 - Machine Learning for Business
+- Machine Learning Monitoring Concepts
 - Manipulating Time Series Data in Python
 - Marketing Analytics for Business
 - MLOps Concepts
