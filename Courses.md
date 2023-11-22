@@ -29,6 +29,7 @@
 - Intermediate Python
 - Intermediate R
 - Intermediate SQL
+- Introduction to Azure
 - Introduction to Bash Scripting
 - Introduction to ChatGPT
 - Introduction to Data
