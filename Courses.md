@@ -69,6 +69,7 @@
 - Marketing Analytics for Business
 - MLOps Concepts
 - MLOps for Business
+- Name Game: Gender Prediction Using Sound
 - NoSQL Concepts
 - Object-Oriented Programming in Python
 - Python Data Science Toolbox (Part 1)
