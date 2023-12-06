@@ -55,6 +55,7 @@
 - Introduction to Regression with statsmodels in Python
 - Introduction to Shell
 - Introduction to SQL
+- Introduction to Statistics
 - Introduction to Statistics in Python
 - Introduction to Statistics in R
 - Introduction to TensorFlow in Python
