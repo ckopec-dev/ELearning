@@ -7,6 +7,7 @@
 - Exploring the Kaggle Data Science Survey
 - Interpreting Unsupervised Learning Models
 - Introduction to DataCamp Projects
+- Level Difficulty in Candy Crush Saga
 - Modeling Car Insurance Claim Outcomes
 - Phyllotaxis: Draw Flowers Using Mathematics
 - Rise and Fall of Programming Languages
