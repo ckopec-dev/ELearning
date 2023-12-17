@@ -13,5 +13,6 @@
 - Rise and Fall of Programming Languages
 - Risk and Returns: The Sharpe Ratio
 - The GitHub History of the Scala Language
+- The Hottest Topics in Machine Learning
 - Visualizing COVID-19
 - Wrangling and Visualizing Musical Data
