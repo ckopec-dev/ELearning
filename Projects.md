@@ -10,6 +10,7 @@
 - Introduction to DataCamp Projects
 - Level Difficulty in Candy Crush Saga
 - Modeling Car Insurance Claim Outcomes
+- Naïve Bees: Image Loading and Processing
 - Phyllotaxis: Draw Flowers Using Mathematics
 - Rise and Fall of Programming Languages
 - Risk and Returns: The Sharpe Ratio
