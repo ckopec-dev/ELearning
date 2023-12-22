@@ -6,6 +6,7 @@
 - Exploring the Bitcoin Cryptocurrency Market
 - Exploring the Evolution of Linux
 - Exploring the Kaggle Data Science Survey
+- Generate Keywords for Google Ads
 - Interpreting Unsupervised Learning Models
 - Introduction to DataCamp Projects
 - Level Difficulty in Candy Crush Saga
