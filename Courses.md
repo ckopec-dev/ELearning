@@ -4,6 +4,7 @@
 - AI Ethics
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
+- CI/CD for Machine Learning
 - Cluster Analysis in Python
 - Communicating Data Insights
 - Course Creation at DataCamp
