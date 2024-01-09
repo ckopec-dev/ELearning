@@ -48,6 +48,7 @@
 - Introduction to Deep Learning in Python
 - Introduction to Deep Learning with Keras
 - Introduction to Docker
+- Introduction to GCP
 - Introduction to Git
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
