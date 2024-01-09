@@ -86,6 +86,7 @@
 - Understanding Data Engineering
 - Understanding Data Science
 - Understanding Data Visualization
+- Understanding Digital Transformation
 - Understanding GDPR
 - Understanding Machine Learning
 - Understanding Modern Data Architecture
