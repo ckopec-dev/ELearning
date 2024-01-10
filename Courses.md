@@ -13,6 +13,7 @@
 - Data Fluency
 - Data Governance Concepts
 - Data Literacy Case Study: Remote Working Analysis
+- Data Management Concepts
 - Data Manipulation with dplyr
 - Data Manipulation with Pandas
 - Data Processing in Shell
