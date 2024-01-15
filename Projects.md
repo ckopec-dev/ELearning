@@ -12,6 +12,7 @@
 - Level Difficulty in Candy Crush Saga
 - Modeling Car Insurance Claim Outcomes
 - Naïve Bees: Image Loading and Processing
+- Name Game: Gender Prediction Using Sound
 - Phyllotaxis: Draw Flowers Using Mathematics
 - Rise and Fall of Programming Languages
 - Risk and Returns: The Sharpe Ratio
