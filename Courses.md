@@ -24,6 +24,7 @@
 - Data-Driven Decision Making for Business
 - Developing Machine Learning Models for Production
 - Forming Analytic Questions
+- Fully Automated MLOps
 - Generative AI Concepts
 - Generative AI for Business
 - GitHub Concepts
