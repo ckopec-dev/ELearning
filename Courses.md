@@ -77,6 +77,7 @@
 - Manipulating Time Series Data in Python
 - Marketing Analytics for Business
 - MLOps Concepts
+- MLOps Deployment and Life Cycling
 - MLOps for Business
 - NoSQL Concepts
 - Object-Oriented Programming in Python
