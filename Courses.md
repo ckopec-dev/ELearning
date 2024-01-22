@@ -34,6 +34,7 @@
 - Intermediate Python
 - Intermediate R
 - Intermediate SQL
+- Introduction to Airflow in Python
 - Introduction to Azure
 - Introduction to Bash Scripting
 - Introduction to ChatGPT
