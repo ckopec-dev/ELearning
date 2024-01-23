@@ -85,6 +85,7 @@
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Reshaping Data with pandas
+- Sentiment Analysis in Python
 - Streaming Concepts
 - Supervised Learning with scikit-learn
 - Understanding Artificial Intelligence
