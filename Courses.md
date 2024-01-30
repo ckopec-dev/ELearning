@@ -89,6 +89,7 @@
 - Sentiment Analysis in Python
 - Streaming Concepts
 - Supervised Learning with scikit-learn
+- Time Series Analysis in Python
 - Understanding Artificial Intelligence
 - Understanding Cloud Computing
 - Understanding Data Engineering
