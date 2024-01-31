@@ -75,6 +75,7 @@
 - Large Language Models for Business
 - Machine Learning for Business
 - Machine Learning for Finance in Python
+- Machine Learning for Time Series Data in Python
 - Machine Learning Monitoring Concepts
 - Manipulating Time Series Data in Python
 - Marketing Analytics for Business
