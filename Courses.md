@@ -77,6 +77,7 @@
 - Machine Learning for Finance in Python
 - Machine Learning for Time Series Data in Python
 - Machine Learning Monitoring Concepts
+- Machine Learning with Tree-Based Models in Python
 - Manipulating Time Series Data in Python
 - Marketing Analytics for Business
 - MLOps Concepts
