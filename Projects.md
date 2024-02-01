@@ -3,6 +3,7 @@
 
 - A Network Analysis of Game of Thrones
 - A New Era of Data Analysis in Baseball
+- Build a Demand Forecasting Model
 - Exploring the Bitcoin Cryptocurrency Market
 - Exploring the Evolution of Linux
 - Exploring the Kaggle Data Science Survey
