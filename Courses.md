@@ -85,6 +85,7 @@
 - MLOps for Business
 - NoSQL Concepts
 - Object-Oriented Programming in Python
+- Preprocessing for Machine Learning in Python
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Reshaping Data with pandas
