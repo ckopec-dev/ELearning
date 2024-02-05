@@ -51,6 +51,7 @@
 - Introduction to Data Warehousing
 - Introduction to Deep Learning in Python
 - Introduction to Deep Learning with Keras
+- Introduction to Deep Learning with PyTorch
 - Introduction to DevOps
 - Introduction to Docker
 - Introduction to GCP
