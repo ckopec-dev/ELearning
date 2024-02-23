@@ -56,6 +56,7 @@
 - Introduction to Docker
 - Introduction to GCP
 - Introduction to Git
+- Introduction to LLMs in Python
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
 - Introduction to Programming Paradigms
