@@ -5,6 +5,7 @@
 - A New Era of Data Analysis in Baseball
 - Build a Demand Forecasting Model
 - Exploring the Bitcoin Cryptocurrency Market
+- Exploring NYC Public School Test Result Scores
 - Exploring the Evolution of Linux
 - Exploring the Kaggle Data Science Survey
 - Generate Keywords for Google Ads
