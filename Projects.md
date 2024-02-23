@@ -10,6 +10,7 @@
 - Generate Keywords for Google Ads
 - Interpreting Unsupervised Learning Models
 - Introduction to DataCamp Projects
+- Investigating Netflix Movies
 - Level Difficulty in Candy Crush Saga
 - Modeling Car Insurance Claim Outcomes
 - Naïve Bees: Image Loading and Processing
