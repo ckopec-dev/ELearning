@@ -75,6 +75,7 @@
 - Joining Data with pandas
 - Large Language Models (LLMs) Concepts
 - Large Language Models for Business
+- Linear Classifiers in Python
 - Machine Learning for Business
 - Machine Learning for Finance in Python
 - Machine Learning for Time Series Data in Python
