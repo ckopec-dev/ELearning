@@ -45,6 +45,7 @@
 - Introduction to Data Privacy
 - Introduction to Data Quality
 - Introduction to Data Science in Python
+- Introduction to Data Security
 - Introduction to Data Visualization with ggplot2
 - Introduction to Data Visualization with Matplotlib
 - Introduction to Data Visualization with Seaborn
