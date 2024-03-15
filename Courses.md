@@ -87,6 +87,7 @@
 - MLOps Concepts
 - MLOps Deployment and Life Cycling
 - MLOps for Business
+- Monetizing Artificial Intelligence
 - NoSQL Concepts
 - Object-Oriented Programming in Python
 - Preprocessing for Machine Learning in Python
