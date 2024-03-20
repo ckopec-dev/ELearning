@@ -65,6 +65,7 @@
 - Introduction to Python
 - Introduction to R
 - Introduction to Regression with statsmodels in Python
+- Introduction to Scala
 - Introduction to Shell
 - Introduction to SQL
 - Introduction to Statistics
