@@ -58,6 +58,7 @@
 - Introduction to GCP
 - Introduction to Git
 - Introduction to LLMs in Python
+- Introduction to MLflow
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
 - Introduction to Programming Paradigms
