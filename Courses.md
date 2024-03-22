@@ -67,6 +67,7 @@
 - Introduction to Regression with statsmodels in Python
 - Introduction to Scala
 - Introduction to Shell
+- Introduction to Snowflake
 - Introduction to SQL
 - Introduction to Statistics
 - Introduction to Statistics in Python
