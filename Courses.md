@@ -50,6 +50,7 @@
 - Introduction to Data Visualization with Matplotlib
 - Introduction to Data Visualization with Seaborn
 - Introduction to Data Warehousing
+- Introduction to Databricks
 - Introduction to Deep Learning in Python
 - Introduction to Deep Learning with Keras
 - Introduction to Deep Learning with PyTorch
