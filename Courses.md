@@ -42,6 +42,7 @@
 - Introduction to Data Culture
 - Introduction to Data Ethics
 - Introduction to Data Literacy
+- Introduction to Data Modeling in Snowflake
 - Introduction to Data Privacy
 - Introduction to Data Quality
 - Introduction to Data Science in Python
