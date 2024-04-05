@@ -63,6 +63,7 @@
 - Introduction to MLflow
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
+- Introduction to Power BI
 - Introduction to Programming Paradigms
 - Introduction to PySpark
 - Introduction to Python
