@@ -93,6 +93,7 @@
 - MLOps Concepts
 - MLOps Deployment and Life Cycling
 - MLOps for Business
+- Model Validation in Python
 - Monetizing Artificial Intelligence
 - NoSQL Concepts
 - Object-Oriented Programming in Python
