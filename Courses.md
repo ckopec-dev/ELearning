@@ -24,6 +24,7 @@
 - Data-Driven Decision Making for Business
 - Developing Machine Learning Models for Production
 - Exploratory Data Analysis in Python
+- Exploratory Data Analysis in R
 - Forming Analytic Questions
 - Fully Automated MLOps
 - Generative AI Concepts
