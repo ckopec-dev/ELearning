@@ -21,6 +21,7 @@
 - Data Storytelling Case Study: College Majors
 - Data Storytelling Case Study: Green Businesses
 - Data Storytelling Concepts
+- Data Visualization in Power BI
 - Data-Driven Decision Making for Business
 - Developing Machine Learning Models for Production
 - Exploratory Data Analysis in Python
