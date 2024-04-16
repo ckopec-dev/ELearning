@@ -125,4 +125,5 @@
 - Understanding Machine Learning
 - Understanding Modern Data Architecture
 - Unsupervised Learning in Python
+- Writing Efficient Python Code
 - Writing Functions in Python
