@@ -74,6 +74,7 @@
 - Introduction to Programming Paradigms
 - Introduction to PySpark
 - Introduction to Python
+- Introduction to Python for Developers
 - Introduction to R
 - Introduction to Regression in R
 - Introduction to Regression with statsmodels in Python
