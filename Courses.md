@@ -34,6 +34,7 @@
 - Image Processing in Python
 - Implementing AI Solutions in Business
 - Intermediate Data Visualization with ggplot2
+- Intermediate Importing Data in Python
 - Intermediate Python
 - Intermediate R
 - Intermediate SQL
