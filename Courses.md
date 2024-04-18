@@ -127,6 +127,7 @@
 - Understanding GDPR
 - Understanding Machine Learning
 - Understanding Modern Data Architecture
+- Understanding Prompt Engineering
 - Unsupervised Learning in Python
 - Writing Efficient Python Code
 - Writing Functions in Python
