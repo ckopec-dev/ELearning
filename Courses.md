@@ -2,6 +2,7 @@
 # Completed Courses
 
 - AI Ethics
+- Analyzing Data in Tableau
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
 - CI/CD for Machine Learning
