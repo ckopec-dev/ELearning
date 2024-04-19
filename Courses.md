@@ -18,6 +18,7 @@
 - Data Management Concepts
 - Data Manipulation with dplyr
 - Data Manipulation with Pandas
+- Data Preparation in Power BI
 - Data Processing in Shell
 - Data Science for Business
 - Data Storytelling Case Study: College Majors
