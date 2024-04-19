@@ -40,6 +40,7 @@
 - Intermediate Data Visualization with ggplot2
 - Intermediate Importing Data in Python
 - Intermediate Python
+- Intermediate Python for Developers
 - Intermediate R
 - Intermediate SQL
 - Introduction to Airflow in Python
