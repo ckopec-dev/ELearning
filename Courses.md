@@ -25,6 +25,7 @@
 - Data Storytelling Case Study: College Majors
 - Data Storytelling Case Study: Green Businesses
 - Data Storytelling Concepts
+- Data Structures and Algorithms in Python
 - Data Visualization in Power BI
 - Data-Driven Decision Making for Business
 - DAX Functions in Power BI
