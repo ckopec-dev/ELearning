@@ -40,6 +40,7 @@
 - GitHub Concepts
 - Image Processing in Python
 - Implementing AI Solutions in Business
+- Intermediate Data Modeling in Power BI
 - Intermediate Data Visualization with ggplot2
 - Intermediate Importing Data in Python
 - Intermediate Python
