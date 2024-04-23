@@ -127,6 +127,7 @@
 - Sampling in Python
 - Sentiment Analysis in Python
 - Streaming Concepts
+- Supervised Learning in R: Classification
 - Supervised Learning with scikit-learn
 - Time Series Analysis in Python
 - Understanding Artificial Intelligence
