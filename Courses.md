@@ -31,6 +31,7 @@
 - Data-Driven Decision Making for Business
 - DAX Functions in Power BI
 - Developing Machine Learning Models for Production
+- Exploratory Data Analysis in Power BI
 - Exploratory Data Analysis in Python
 - Exploratory Data Analysis in R
 - Forming Analytic Questions
