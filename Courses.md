@@ -48,6 +48,7 @@
 - Intermediate Python
 - Intermediate Python for Developers
 - Intermediate R
+- Intermediate Regression in R
 - Intermediate SQL
 - Introduction to Airflow in Python
 - Introduction to Azure
