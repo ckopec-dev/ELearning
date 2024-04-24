@@ -7,6 +7,7 @@
 - AWS Cloud Concepts
 - CI/CD for Machine Learning
 - Cleaning Data in Python
+- Cleaning Data in R
 - Cluster Analysis in Python
 - Communicating Data Insights
 - Course Creation at DataCamp
