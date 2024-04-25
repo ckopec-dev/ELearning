@@ -10,6 +10,7 @@
 - Cleaning Data in R
 - Cluster Analysis in Python
 - Communicating Data Insights
+- Connecting Data in Tableau
 - Course Creation at DataCamp
 - Creating Dashboards in Tableau
 - Dashboard Design Concepts
