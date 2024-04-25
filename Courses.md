@@ -11,6 +11,7 @@
 - Cluster Analysis in Python
 - Communicating Data Insights
 - Course Creation at DataCamp
+- Creating Dashboards in Tableau
 - Dashboard Design Concepts
 - Data Communication Concepts
 - Data Fluency
