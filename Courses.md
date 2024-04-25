@@ -30,6 +30,7 @@
 - Data Structures and Algorithms in Python
 - Data Transformation in Power BI
 - Data Visualization in Power BI
+- Data Visualization in Tableau
 - Data-Driven Decision Making for Business
 - DAX Functions in Power BI
 - Developing Machine Learning Models for Production
