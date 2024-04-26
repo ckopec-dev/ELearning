@@ -131,6 +131,7 @@
 - Reshaping Data with tidyr
 - Sampling in Python
 - Sentiment Analysis in Python
+- Statistical Techniques in Tableau
 - Streaming Concepts
 - Supervised Learning in R: Classification
 - Supervised Learning with scikit-learn
