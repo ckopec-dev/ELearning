@@ -118,6 +118,7 @@
 - Machine Learning with Tree-Based Models in Python
 - Manipulating Time Series Data in Python
 - Marketing Analytics for Business
+- Marketing Analytics in Tableau
 - MLOps Concepts
 - MLOps Deployment and Life Cycling
 - MLOps for Business
