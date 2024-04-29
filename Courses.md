@@ -16,6 +16,7 @@
 - Creating Dashboards in Tableau
 - Dashboard Design Concepts
 - Data Communication Concepts
+- Data Connections in Power BI
 - Data Fluency
 - Data Governance Concepts
 - Data Literacy Case Study: Remote Working Analysis
