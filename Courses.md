@@ -138,6 +138,7 @@
 - Supervised Learning in R: Classification
 - Supervised Learning with scikit-learn
 - Time Series Analysis in Python
+- Time Series Analysis in Tableau
 - Understanding Artificial Intelligence
 - Understanding Cloud Computing
 - Understanding Data Engineering
