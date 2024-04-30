@@ -131,6 +131,7 @@
 - Preprocessing for Machine Learning in Python
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
+- Report Design in Power BI
 - Reports in Power BI
 - Reshaping Data with pandas
 - Reshaping Data with tidyr
