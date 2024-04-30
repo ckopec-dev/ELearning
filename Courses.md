@@ -57,6 +57,7 @@
 - Intermediate Regression in R
 - Intermediate SQL
 - Introduction to Airflow in Python
+- Introduction to Alteryx
 - Introduction to Azure
 - Introduction to Bash Scripting
 - Introduction to ChatGPT
