@@ -86,6 +86,7 @@
 - Introduction to Docker
 - Introduction to GCP
 - Introduction to Git
+- Introduction to Google Sheets
 - Introduction to Importing Data in Python
 - Introduction to Importing Data in R
 - Introduction to LLMs in Python
