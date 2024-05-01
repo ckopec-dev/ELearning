@@ -47,6 +47,7 @@
 - GitHub Concepts
 - Image Processing in Python
 - Implementing AI Solutions in Business
+- Interactive Data Visualization with plotly in R
 - Intermediate Data Modeling in Power BI
 - Intermediate Data Visualization with ggplot2
 - Intermediate DAX in Power BI
