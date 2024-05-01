@@ -36,6 +36,7 @@
 - Data Visualization in Tableau
 - Data-Driven Decision Making for Business
 - DAX Functions in Power BI
+- Deploying and Maintaining Assets in Power BI
 - Developing Machine Learning Models for Production
 - Exploratory Data Analysis in Power BI
 - Exploratory Data Analysis in Python
