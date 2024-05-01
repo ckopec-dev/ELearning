@@ -24,6 +24,7 @@
 - Data Manipulation with dplyr
 - Data Manipulation with Pandas
 - Data Modeling in Power BI
+- Data Preparation in Alteryx
 - Data Preparation in Power BI
 - Data Processing in Shell
 - Data Science for Business
