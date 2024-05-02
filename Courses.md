@@ -53,6 +53,7 @@
 - Intermediate Data Modeling in Power BI
 - Intermediate Data Visualization with ggplot2
 - Intermediate DAX in Power BI
+- Intermediate Deep Learning with PyTorch
 - Intermediate Importing Data in Python
 - Intermediate Python
 - Intermediate Python for Developers
