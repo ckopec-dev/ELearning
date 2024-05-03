@@ -5,6 +5,7 @@
 - Analyzing Data in Tableau
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
+- Big Data Fundamentals with PySpark
 - Calculations in Tableau
 - CI/CD for Machine Learning
 - Cleaning Data in Python
