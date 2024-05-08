@@ -140,6 +140,7 @@
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Report Design in Power BI
+- Reporting with R Markdown
 - Reports in Power BI
 - Reshaping Data with pandas
 - Reshaping Data with tidyr
