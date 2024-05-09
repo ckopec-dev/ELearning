@@ -49,6 +49,7 @@
 - Generative AI Concepts
 - Generative AI for Business
 - GitHub Concepts
+- Hypothesis Testing in Python
 - Image Processing in Python
 - Implementing AI Solutions in Business
 - Interactive Data Visualization with plotly in R
