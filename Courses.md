@@ -166,5 +166,6 @@
 - Understanding Modern Data Architecture
 - Understanding Prompt Engineering
 - Unsupervised Learning in Python
+- Web Scraping in Python
 - Writing Efficient Python Code
 - Writing Functions in Python
