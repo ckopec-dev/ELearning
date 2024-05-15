@@ -88,6 +88,7 @@
 - Introduction to Deep Learning with PyTorch
 - Introduction to DevOps
 - Introduction to Docker
+- Introduction to Excel
 - Introduction to GCP
 - Introduction to Git
 - Introduction to Google Sheets
