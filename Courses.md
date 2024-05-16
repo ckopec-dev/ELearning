@@ -16,6 +16,7 @@
 - Course Creation at DataCamp
 - Creating Dashboards in Tableau
 - Dashboard Design Concepts
+- Data Analysis in Excel
 - Data Communication Concepts
 - Data Connections in Power BI
 - Data Fluency
