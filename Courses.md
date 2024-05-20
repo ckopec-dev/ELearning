@@ -47,6 +47,7 @@
 - Exploratory Data Analysis in Power BI
 - Exploratory Data Analysis in Python
 - Exploratory Data Analysis in R
+- Exploratory Data Analysis in SQL
 - Financial Analysis in Power BI
 - Forming Analytic Questions
 - Fully Automated MLOps
