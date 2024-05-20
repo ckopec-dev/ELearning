@@ -113,6 +113,7 @@
 - Introduction to R
 - Introduction to Regression in R
 - Introduction to Regression with statsmodels in Python
+- Introduction to Relational Databases in SQL
 - Introduction to Scala
 - Introduction to Shell
 - Introduction to Snowflake
