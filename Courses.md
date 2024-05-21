@@ -147,6 +147,7 @@
 - Monetizing Artificial Intelligence
 - NoSQL Concepts
 - Object-Oriented Programming in Python
+- PostgreSQL Summary Stats and Window Functions
 - Preprocessing for Machine Learning in Python
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
