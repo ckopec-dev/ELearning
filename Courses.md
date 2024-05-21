@@ -41,6 +41,7 @@
 - Data Visualization in Power BI
 - Data Visualization in Tableau
 - Data-Driven Decision Making for Business
+- Database Design
 - DAX Functions in Power BI
 - Deploying and Maintaining Assets in Power BI
 - Developing Machine Learning Models for Production
