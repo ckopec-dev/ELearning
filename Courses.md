@@ -73,6 +73,7 @@
 - Introduction to Alteryx
 - Introduction to Azure
 - Introduction to Bash Scripting
+- Introduction to BigQuery
 - Introduction to ChatGPT
 - Introduction to Data
 - Introduction to Data Culture
