@@ -37,6 +37,7 @@
 - Data Storytelling Concepts
 - Data Structures and Algorithms in Python
 - Data Transformation in Power BI
+- Data Versioning with DVC
 - Data Visualization in Excel
 - Data Visualization in Power BI
 - Data Visualization in Tableau
