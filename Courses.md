@@ -158,6 +158,7 @@
 - Reports in Power BI
 - Reshaping Data with pandas
 - Reshaping Data with tidyr
+- Responsible AI Data Management
 - Sampling in Python
 - Sentiment Analysis in Python
 - Statistical Techniques in Tableau
