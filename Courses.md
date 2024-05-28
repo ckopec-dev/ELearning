@@ -2,6 +2,7 @@
 # Completed Courses
 
 - AI Ethics
+- AI Security and Risk Management
 - Analyzing Data in Tableau
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
