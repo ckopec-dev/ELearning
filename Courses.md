@@ -67,6 +67,7 @@
 - Intermediate DAX in Power BI
 - Intermediate Deep Learning with PyTorch
 - Intermediate Importing Data in Python
+- Intermediate Julia
 - Intermediate Python
 - Intermediate Python for Developers
 - Intermediate R
