@@ -54,6 +54,7 @@
 - Exploratory Data Analysis in R
 - Exploratory Data Analysis in SQL
 - Financial Analysis in Power BI
+- Financial Modeling in Excel
 - Forming Analytic Questions
 - Fully Automated MLOps
 - Generative AI Concepts
