@@ -8,6 +8,7 @@
 - AWS Cloud Concepts
 - Azure Architecture and Services
 - Big Data Fundamentals with PySpark
+- Business Process Analytics in R
 - Calculations in Tableau
 - CI/CD for Machine Learning
 - Cleaning Data in Python
