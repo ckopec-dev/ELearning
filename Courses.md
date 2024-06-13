@@ -95,6 +95,7 @@
 - Introduction to Data Science in Python
 - Introduction to Data Security
 - Introduction to Data Visualization with ggplot2
+- Introduction to Data Visualization with Julia
 - Introduction to Data Visualization with Matplotlib
 - Introduction to Data Visualization with Seaborn
 - Introduction to Data Warehousing
