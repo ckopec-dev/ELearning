@@ -3,6 +3,7 @@
 
 - AI Ethics
 - AI Security and Risk Management
+- Analyzing Business Data in SQL
 - Analyzing Data in Tableau
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
