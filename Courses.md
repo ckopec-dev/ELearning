@@ -62,6 +62,7 @@
 - Financial Modeling in Excel
 - Forming Analytic Questions
 - Fully Automated MLOps
+- Functions for Manipulating Data in PostgreSQL
 - Generative AI Concepts
 - Generative AI for Business
 - GitHub Concepts
