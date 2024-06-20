@@ -102,6 +102,7 @@
 - Introduction to Data Warehousing
 - Introduction to Databricks
 - Introduction to DAX in Power BI
+- Introduction to dbt
 - Introduction to Deep Learning in Python
 - Introduction to Deep Learning with Keras
 - Introduction to Deep Learning with PyTorch
