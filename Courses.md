@@ -15,6 +15,7 @@
 - CI/CD for Machine Learning
 - Cleaning Data in Python
 - Cleaning Data in R
+- Cleaning Data with PySpark
 - Cluster Analysis in Python
 - Communicating Data Insights
 - Connecting Data in Tableau
