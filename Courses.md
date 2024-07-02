@@ -127,6 +127,7 @@
 - Introduction to Programming Paradigms
 - Introduction to PySpark
 - Introduction to Python
+- Introduction to Python in Power BI
 - Introduction to Python for Developers
 - Introduction to Python for Finance
 - Introduction to R
