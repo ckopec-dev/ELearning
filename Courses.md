@@ -112,6 +112,7 @@
 - Introduction to DevOps
 - Introduction to Docker
 - Introduction to Excel
+- Introduction to Financial Statements in Power BI
 - Introduction to GCP
 - Introduction to Git
 - Introduction to Google Sheets
