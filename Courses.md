@@ -8,6 +8,7 @@
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
 - Azure Architecture and Services
+- Baseball Data Visualization in Power BI
 - Big Data Fundamentals with PySpark
 - Building Dashboards with shinydashboard
 - Business Process Analytics in R
