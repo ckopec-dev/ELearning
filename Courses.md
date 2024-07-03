@@ -126,6 +126,7 @@
 - Introduction to Object-Oriented Programming in Python
 - Introduction to Optimization in Python
 - Introduction to Power BI
+- Introduction to Power Query in Excel
 - Introduction to Programming Paradigms
 - Introduction to PySpark
 - Introduction to Python
