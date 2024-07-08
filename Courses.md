@@ -85,6 +85,7 @@
 - Intermediate SQL
 - Introduction to Airflow in Python
 - Introduction to Alteryx
+- Introduction to AWS
 - Introduction to Azure
 - Introduction to Bash Scripting
 - Introduction to BigQuery
