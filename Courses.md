@@ -20,6 +20,7 @@
 - Cluster Analysis in Python
 - Communicating Data Insights
 - Connecting Data in Tableau
+- Containerization and Virtualization Concepts
 - Course Creation at DataCamp
 - Creating Dashboards in Tableau
 - Dashboard Design Concepts
