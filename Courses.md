@@ -10,6 +10,7 @@
 - Azure Architecture and Services
 - Baseball Data Visualization in Power BI
 - Big Data Fundamentals with PySpark
+- Biomedical Image Analysis in Python
 - Building Dashboards with shinydashboard
 - Business Process Analytics in R
 - Calculations in Tableau
