@@ -192,6 +192,7 @@
 - Sentiment Analysis in Python
 - Statistical Techniques in Tableau
 - Streaming Concepts
+- Streamlined Data Ingestion with pandas
 - Supervised Learning in R: Classification
 - Supervised Learning with scikit-learn
 - Time Series Analysis in Power BI
