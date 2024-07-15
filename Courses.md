@@ -56,6 +56,7 @@
 - DAX Functions in Power BI
 - Deploying and Maintaining Assets in Power BI
 - Developing Machine Learning Models for Production
+- ETL and ELT in Python
 - Experimental Design in Python
 - Explainable Artificial Intelligence (XAI) Concepts
 - Exploratory Data Analysis in Power BI
