@@ -191,6 +191,7 @@
 - Responsible AI Practices
 - Sampling in Python
 - Sentiment Analysis in Python
+- Software Engineering Principles in Python
 - Statistical Techniques in Tableau
 - Streaming Concepts
 - Streamlined Data Ingestion with pandas
