@@ -46,6 +46,7 @@
 - Data Storytelling Case Study: Green Businesses
 - Data Storytelling Concepts
 - Data Structures and Algorithms in Python
+- Data Transformation in Alteryx
 - Data Transformation in Power BI
 - Data Versioning with DVC
 - Data Visualization in Excel
