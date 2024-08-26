@@ -178,6 +178,7 @@
 - NoSQL Concepts
 - Object-Oriented Programming in Python
 - PostgreSQL Summary Stats and Window Functions
+- Power BI for End Users
 - Preprocessing for Machine Learning in Python
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
