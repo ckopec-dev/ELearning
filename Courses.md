@@ -15,6 +15,7 @@
 - Building Dashboards with shinydashboard
 - Business Process Analytics in R
 - Calculations in Tableau
+- Case Studies: Building Web Applications with Shiny in R
 - CI/CD for Machine Learning
 - Cleaning Data in Python
 - Cleaning Data in R
