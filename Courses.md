@@ -188,6 +188,7 @@
 - Python Data Science Toolbox (Part 2)
 - Reinforcement Learning with Gymnasium in Python
 - Report Design in Power BI
+- Reporting in SQL
 - Reporting with R Markdown
 - Reports in Power BI
 - Reshaping Data with pandas
