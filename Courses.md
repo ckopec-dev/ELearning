@@ -158,6 +158,7 @@
 - Introduction to Statistics in R
 - Introduction to Tableau
 - Introduction to TensorFlow in Python
+- Introduction to Testing in Python
 - Introduction to the Tidyverse
 - Introduction to Version Control with Git
 - Joining Data in SQL
