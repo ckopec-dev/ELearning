@@ -7,6 +7,7 @@
 - Analyzing Data in Tableau
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
+- AWS Cloud Technology and Services
 - Azure Architecture and Services
 - Baseball Data Visualization in Power BI
 - Big Data Fundamentals with PySpark
