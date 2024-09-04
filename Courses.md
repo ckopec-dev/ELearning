@@ -92,6 +92,7 @@
 - Intermediate Regression in R
 - Intermediate SQL
 - Introduction to Airflow in Python
+- Introduction to APIs in Python
 - Introduction to Alteryx
 - Introduction to AWS
 - Introduction to Azure
