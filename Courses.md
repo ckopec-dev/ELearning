@@ -101,6 +101,7 @@
 - Introduction to ChatGPT
 - Introduction to Data
 - Introduction to Data Culture
+- Introduction to Data Engineering
 - Introduction to Data Ethics
 - Introduction to Data Literacy
 - Introduction to Data Modeling in Snowflake
