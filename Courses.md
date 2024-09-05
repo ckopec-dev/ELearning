@@ -9,6 +9,7 @@
 - AWS Cloud Concepts
 - AWS Cloud Technology and Services
 - Azure Architecture and Services
+- Azure Management and Governance
 - Baseball Data Visualization in Power BI
 - Big Data Fundamentals with PySpark
 - Biomedical Image Analysis in Python
