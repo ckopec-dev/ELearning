@@ -221,6 +221,7 @@
 - Understanding Machine Learning
 - Understanding Modern Data Architecture
 - Understanding Prompt Engineering
+- Understanding the EU AI Act
 - Unsupervised Learning in Python
 - Visualizing Geospatial Data in Python
 - Web Scraping in Python
