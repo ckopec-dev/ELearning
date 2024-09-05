@@ -129,6 +129,7 @@
 - Introduction to Importing Data in Python
 - Introduction to Importing Data in R
 - Introduction to Julia
+- Introduction to Kafka
 - Introduction to LLMs in Python
 - Introduction to MLflow
 - Introduction to Natural Language Processing in Python
