@@ -30,6 +30,7 @@
 - Creating Dashboards in Tableau
 - Dashboard Design Concepts
 - Data Analysis in Excel
+- Data Analysis in Google Sheets
 - Data Communication Concepts
 - Data Connections in Power BI
 - Data Fluency
