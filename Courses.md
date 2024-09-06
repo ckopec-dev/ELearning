@@ -8,6 +8,7 @@
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
 - AWS Cloud Technology and Services
+- AWS Security and Cost Management
 - Azure Architecture and Services
 - Azure Management and Governance
 - Baseball Data Visualization in Power BI
