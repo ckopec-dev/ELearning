@@ -172,6 +172,7 @@
 - Joining Data with pandas
 - Large Language Models (LLMs) Concepts
 - Large Language Models for Business
+- Linear Algebra for Data Science in R
 - Linear Classifiers in Python
 - LLMOps Concepts
 - Machine Learning for Business
