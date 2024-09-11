@@ -235,5 +235,6 @@
 - Web Scraping in Python
 - Working with Categorical Data in Python
 - Working with Dates and Times in Python
+- Working with LLama 3
 - Writing Efficient Python Code
 - Writing Functions in Python
