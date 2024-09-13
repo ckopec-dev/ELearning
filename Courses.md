@@ -95,6 +95,7 @@
 - Intermediate Julia
 - Intermediate Python
 - Intermediate Python for Developers
+- Intermediate Python for Finance
 - Intermediate R
 - Intermediate Regression in R
 - Intermediate SQL
