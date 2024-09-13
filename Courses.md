@@ -93,6 +93,7 @@
 - Intermediate Google Sheets
 - Intermediate Importing Data in Python
 - Intermediate Julia
+- Intermediate Object-Oriented Programming with Python
 - Intermediate Python
 - Intermediate Python for Developers
 - Intermediate Python for Finance
