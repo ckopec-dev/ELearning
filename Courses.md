@@ -1,6 +1,7 @@
 
 # Completed Courses
 
+- Advanced NLP with spaCy
 - AI Ethics
 - AI Security and Risk Management
 - Analyzing Business Data in SQL
