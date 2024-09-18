@@ -65,6 +65,7 @@
 - Deep Learning for Images with PyTorch
 - Deploying and Maintaining Assets in Power BI
 - Developing Machine Learning Models for Production
+- End-to-End Machine Learning
 - ETL and ELT in Python
 - Experimental Design in Python
 - Explainable Artificial Intelligence (XAI) Concepts
