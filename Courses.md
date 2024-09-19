@@ -74,6 +74,7 @@
 - Exploratory Data Analysis in R
 - Exploratory Data Analysis in SQL
 - Feature Engineering for Machine Learning in Python
+- Feature Engineering for NLP in Python
 - Financial Analysis in Power BI
 - Financial Forecasting in Python
 - Financial Modeling in Excel
