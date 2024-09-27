@@ -171,6 +171,7 @@
 - Introduction to SQL
 - Introduction to SQL Server
 - Introduction to Statistics
+- Introduction to Statistics in Google Sheets
 - Introduction to Statistics in Python
 - Introduction to Statistics in R
 - Introduction to Tableau
