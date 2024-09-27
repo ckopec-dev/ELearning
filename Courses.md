@@ -142,6 +142,7 @@
 - Introduction to Google Sheets
 - Introduction to Importing Data in Python
 - Introduction to Importing Data in R
+- Introduction to Java
 - Introduction to Julia
 - Introduction to Kafka
 - Introduction to Kubernetes
