@@ -205,6 +205,7 @@
 - Monetizing Artificial Intelligence
 - NoSQL Concepts
 - Object-Oriented Programming in Python
+- Pivot Tables in Google Sheets
 - PostgreSQL Summary Stats and Window Functions
 - Power BI for End Users
 - Preprocessing for Machine Learning in Python
