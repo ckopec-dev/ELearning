@@ -1,6 +1,7 @@
 
 # Completed Courses
 
+- Advanced Excel Functions
 - Advanced NLP with spaCy
 - AI Ethics
 - AI Security and Risk Management
