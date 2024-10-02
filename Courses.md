@@ -80,6 +80,7 @@
 - Financial Forecasting in Python
 - Financial Modeling in Excel
 - Forming Analytic Questions
+- Foundations of Git
 - Foundations of Probability in R
 - Fully Automated MLOps
 - Functions for Manipulating Data in PostgreSQL
