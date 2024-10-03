@@ -199,11 +199,12 @@
 - Manipulating Time Series Data in Python
 - Marketing Analytics for Business
 - Marketing Analytics in Google Sheets
-- Marketing Analytics in Tableau
+- Marketing Analytics in Tableau 
 - MLOps Concepts
 - MLOps Deployment and Life Cycling
 - MLOps for Business
 - Model Validation in Python
+- Modeling with Data in the Tidyverse
 - Monetizing Artificial Intelligence
 - NoSQL Concepts
 - Object-Oriented Programming in Python
