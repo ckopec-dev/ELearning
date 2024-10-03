@@ -107,6 +107,7 @@
 - Intermediate R
 - Intermediate Regression in R
 - Intermediate SQL
+- Intermediate SQL Server
 - Introduction to Airflow in Python
 - Introduction to APIs in Python
 - Introduction to Alteryx
