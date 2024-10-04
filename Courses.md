@@ -105,6 +105,7 @@
 - Intermediate Python for Developers
 - Intermediate Python for Finance
 - Intermediate R
+- Intermediate R for Finance
 - Intermediate Regression in R
 - Intermediate SQL
 - Intermediate SQL Server
