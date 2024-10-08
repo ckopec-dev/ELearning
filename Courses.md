@@ -229,6 +229,7 @@
 - Sentiment Analysis in Python
 - Software Engineering Principles in Python
 - Statistical Techniques in Tableau
+- Statustucak Thinking in Python (Part 1)
 - Streaming Concepts
 - Streamlined Data Ingestion with pandas
 - Supervised Learning in R: Classification
