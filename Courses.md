@@ -251,6 +251,7 @@
 - Understanding the EU AI Act
 - Unsupervised Learning in Python
 - User-Oriented Design in Power BI
+- Visualization Best Practices in R
 - Visualizing Geospatial Data in Python
 - Web Scraping in Python
 - Working with Categorical Data in Python
