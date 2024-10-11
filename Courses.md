@@ -214,6 +214,7 @@
 - Pivot Tables in Google Sheets
 - PostgreSQL Summary Stats and Window Functions
 - Power BI for End Users
+- Power Pivot in Excel
 - Preprocessing for Machine Learning in Python
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
