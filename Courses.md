@@ -31,6 +31,7 @@
 - Containerization and Virtualization Concepts
 - Course Creation at DataCamp
 - Creating Dashboards in Tableau
+- Creating PostgreSQL Databases
 - Dashboard Design Concepts
 - Data Analysis in Excel
 - Data Analysis in Google Sheets
