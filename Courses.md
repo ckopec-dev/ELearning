@@ -156,6 +156,7 @@
 - Introduction to MLflow
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
+- Introduction to Object-Oriented Programming in Java
 - Introduction to Object-Oriented Programming in Python
 - Introduction to Optimization in Python
 - Introduction to Oracle SQL
