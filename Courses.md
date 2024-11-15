@@ -153,6 +153,7 @@
 - Introduction to Kafka
 - Introduction to Kubernetes
 - Introduction to LLMs in Python
+- Introduction to Microsoft Copilot
 - Introduction to MLflow
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
