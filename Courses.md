@@ -262,4 +262,5 @@
 - Working with Dates and Times in Python
 - Working with LLama 3
 - Writing Efficient Python Code
+- Writing Efficient R Code
 - Writing Functions in Python
