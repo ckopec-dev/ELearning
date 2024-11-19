@@ -161,6 +161,7 @@
 - Introduction to Object-Oriented Programming in Python
 - Introduction to Optimization in Python
 - Introduction to Oracle SQL
+- Introduction to Portfolio Analysis in Python
 - Introduction to Power BI
 - Introduction to Power Query in Excel
 - Introduction to Programming Paradigms
