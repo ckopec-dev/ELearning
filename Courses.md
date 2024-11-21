@@ -147,6 +147,7 @@
 - Introduction to GCP
 - Introduction to Git
 - Introduction to Google Sheets
+- Introduction to GPTs
 - Introduction to Importing Data in Python
 - Introduction to Importing Data in R
 - Introduction to Java
