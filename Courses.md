@@ -102,6 +102,7 @@
 - Intermediate Importing Data in Python
 - Intermediate Julia
 - Intermediate Object-Oriented Programming with Python
+- Intermediate Power Query in Excel
 - Intermediate Python
 - Intermediate Python for Developers
 - Intermediate Python for Finance
