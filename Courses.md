@@ -225,6 +225,7 @@
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
 - Regular Expressions in Python
+- Reinforcement Learning from Human Feedback (RLHF)
 - Reinforcement Learning with Gymnasium in Python
 - Report Design in Power BI
 - Reporting in SQL
