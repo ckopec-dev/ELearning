@@ -153,6 +153,7 @@
 - Introduction to Java
 - Introduction to Julia
 - Introduction to Kafka
+- Introduction to KNIME
 - Introduction to Kubernetes
 - Introduction to LLMs in Python
 - Introduction to Microsoft Copilot
