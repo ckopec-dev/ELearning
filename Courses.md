@@ -66,6 +66,7 @@
 - Data-Driven Decision Making for Business
 - Database Design
 - DAX Functions in Power BI
+- Decoding Decision Modeling
 - Deep Learning for Images with PyTorch
 - Deploying and Maintaining Assets in Power BI
 - Developing Machine Learning Models for Production
