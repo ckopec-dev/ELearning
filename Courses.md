@@ -134,6 +134,7 @@
 - Introduction to Data Visualization with ggplot2
 - Introduction to Data Visualization with Julia
 - Introduction to Data Visualization with Matplotlib
+- Introduction to Data Visualization with Plotly in Python
 - Introduction to Data Visualization with Seaborn
 - Introduction to Data Warehousing
 - Introduction to Databricks
