@@ -79,6 +79,7 @@
 - Exploratory Data Analysis in Python
 - Exploratory Data Analysis in R
 - Exploratory Data Analysis in SQL
+- Extreme Gradient Boosting with XGBoost
 - Feature Engineering for Machine Learning in Python
 - Feature Engineering for NLP in Python
 - Financial Analysis in Power BI
