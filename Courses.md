@@ -162,6 +162,7 @@
 - Introduction to Kubernetes
 - Introduction to LLMs in Python
 - Introduction to Microsoft Copilot
+- Introduction to Microsoft Fabric
 - Introduction to MLflow
 - Introduction to Natural Language Processing in Python
 - Introduction to NumPy
