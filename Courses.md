@@ -103,6 +103,7 @@
 - Intermediate Data Visualization with ggplot2
 - Intermediate DAX in Power BI
 - Intermediate Deep Learning with PyTorch
+- Intermediate Git
 - Intermediate Google Sheets
 - Intermediate Importing Data in Python
 - Intermediate Julia
