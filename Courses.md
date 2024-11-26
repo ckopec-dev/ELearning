@@ -61,6 +61,7 @@
 - Data Types in Python
 - Data Versioning with DVC
 - Data Visualization in Excel
+- Data Visualization in Google Sheets
 - Data Visualization in Power BI
 - Data Visualization in Tableau
 - Data-Driven Decision Making for Business
@@ -199,6 +200,7 @@
 - Introduction to Testing in Python
 - Introduction to the Tidyverse
 - Introduction to Version Control with Git
+- Introduction to Writing Functions in R
 - Joining Data in SQL
 - Joining Data with dplyr
 - Joining Data with pandas
