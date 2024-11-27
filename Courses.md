@@ -73,6 +73,7 @@
 - Developing Machine Learning Models for Production
 - Dimensionality Reduction in Python
 - End-to-End Machine Learning
+- Ensemple Methods in Python
 - ETL and ELT in Python
 - Experimental Design in Python
 - Explainable Artificial Intelligence (XAI) Concepts
