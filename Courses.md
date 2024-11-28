@@ -70,6 +70,7 @@
 - Decoding Decision Modeling
 - Deep Learning for Images with PyTorch
 - Deploying and Maintaining Assets in Power BI
+- Developing LLM Applications with LangChain
 - Developing Machine Learning Models for Production
 - Dimensionality Reduction in Python
 - End-to-End Machine Learning
