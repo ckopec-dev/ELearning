@@ -247,6 +247,7 @@
 - Reshaping Data with tidyr
 - Responsible AI Data Management
 - Responsible AI Practices
+- Retrieval Augmented Generation (RAG) with LangChain
 - Sampling in Python
 - Sentiment Analysis in Python
 - Software Engineering Principles in Python
