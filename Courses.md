@@ -256,6 +256,7 @@
 - Streaming Concepts
 - Streamlined Data Ingestion with pandas
 - Supervised Learning in R: Classification
+- Supervised Learning in R: Regression
 - Supervised Learning with scikit-learn
 - Time Series Analysis in Power BI
 - Time Series Analysis in Python
