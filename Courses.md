@@ -72,6 +72,7 @@
 - Deploying and Maintaining Assets in Power BI
 - Developing LLM Applications with LangChain
 - Developing Machine Learning Models for Production
+- Developing Python Packages
 - Dimensionality Reduction in Python
 - End-to-End Machine Learning
 - Ensemple Methods in Python
