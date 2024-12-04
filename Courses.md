@@ -78,6 +78,7 @@
 - Ensemple Methods in Python
 - ETL and ELT in Python
 - Experimental Design in Python
+- Explainable AI in Python
 - Explainable Artificial Intelligence (XAI) Concepts
 - Exploratory Data Analysis in Power BI
 - Exploratory Data Analysis in Python
