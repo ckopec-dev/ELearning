@@ -69,6 +69,7 @@
 - DAX Functions in Power BI
 - Decoding Decision Modeling
 - Deep Learning for Images with PyTorch
+- Deep Reinforcement Learning in Python
 - Deploying and Maintaining Assets in Power BI
 - Developing LLM Applications with LangChain
 - Developing Machine Learning Models for Production
