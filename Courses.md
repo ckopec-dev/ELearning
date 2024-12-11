@@ -278,6 +278,7 @@
 - Understanding Prompt Engineering
 - Understanding the EU AI Act
 - Unsupervised Learning in Python
+- Unsupervised Learning in R
 - User-Oriented Design in Power BI
 - Visualization Best Practices in R
 - Visualizing Geospatial Data in Python
