@@ -254,6 +254,7 @@
 - Responsible AI Practices
 - Retrieval Augmented Generation (RAG) with LangChain
 - Sampling in Python
+- Sampling in R
 - Sentiment Analysis in Python
 - Software Engineering Principles in Python
 - Statistical Techniques in Tableau
