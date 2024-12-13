@@ -28,6 +28,7 @@
 - Cleaning Data in R
 - Cleaning Data with PySpark
 - Cluster Analysis in Python
+- Cluster Analysis in R
 - Communicating Data Insights
 - Connecting Data in Tableau
 - Containerization and Virtualization Concepts
