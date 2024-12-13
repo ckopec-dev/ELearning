@@ -44,6 +44,7 @@
 - Data Governance Concepts
 - Data Literacy Case Study: Remote Working Analysis
 - Data Management Concepts
+- Data Manipulation in Alteryx
 - Data Manipulation in Julia
 - Data Manipulation in SQL
 - Data Manipulation with dplyr
