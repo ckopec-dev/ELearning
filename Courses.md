@@ -290,6 +290,7 @@
 - Web Scraping in Python
 - Working with Categorical Data in Python
 - Working with Dates and Times in Python
+- Working with Dates and Times in R
 - Working with LLama 3
 - Working with the OpenAI API
 - Writing Efficient Python Code
