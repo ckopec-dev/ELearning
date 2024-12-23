@@ -20,6 +20,7 @@
 - Building Dashboards with Dash and Plotly
 - Building Dashboards with flexdashboard
 - Building Dashboards with shinydashboard
+- Building Web Applications with Shiny in R
 - Business Process Analytics in R
 - Calculations in Tableau
 - Case Studies: Building Web Applications with Shiny in R
