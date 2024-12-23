@@ -8,6 +8,7 @@
 - Analyzing Business Data in SQL
 - Analyzing Data in Tableau
 - Analyzing Social Media Data in Python
+- Analyzing Social Media Data in R
 - Artificial Intelligence (AI) Strategy
 - AWS Cloud Concepts
 - AWS Cloud Technology and Services
