@@ -112,6 +112,7 @@
 - Intermediate ChatGPT
 - Intermediate Data Modeling in Power BI
 - Intermediate Data Visualization with ggplot2
+- Intermediate Data Visualization with Seaborn
 - Intermediate DAX in Power BI
 - Intermediate Deep Learning with PyTorch
 - Intermediate Docker
