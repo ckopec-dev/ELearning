@@ -76,6 +76,7 @@
 - Deep Learning for Images with PyTorch
 - Deep Reinforcement Learning in Python
 - Deploying and Maintaining Assets in Power BI
+- Designing Agentic Systems with LangChain
 - Developing LLM Applications with LangChain
 - Developing Machine Learning Models for Production
 - Developing Python Packages
