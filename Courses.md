@@ -261,6 +261,7 @@
 - Responsible AI Data Management
 - Responsible AI Practices
 - Retrieval Augmented Generation (RAG) with LangChain
+- RNA-Seq with Bioconductor in R
 - Sampling in Python
 - Sampling in R
 - Sentiment Analysis in Python
