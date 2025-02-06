@@ -97,6 +97,7 @@
 - Financial Analysis in Power BI
 - Financial Forecasting in Python
 - Financial Modeling in Excel
+- Financial Trading in Python
 - Forming Analytic Questions
 - Foundations of Git
 - Foundations of Probability in R
